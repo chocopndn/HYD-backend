@@ -12,6 +12,6 @@ This project is developed under the supervision of Ma'am [Cely Beth Bacud](https
 
 ## Technologies Used
 
-**Node.js:** JavaScript runtime used for building fast, scalable server-side applications.
-**Express.js:** Minimalist web framework for creating API endpoints and handling HTTP requests.
+**Node.js:** JavaScript runtime used for building fast, scalable server-side applications.  
+**Express.js:** Minimalist web framework for creating API endpoints and handling HTTP requests.  
 **MySQL:** Relational database management system (RDBMS) used for storing and managing data.
